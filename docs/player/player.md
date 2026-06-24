@@ -38,7 +38,7 @@ The list below gives all the functions found in `player` table.
 > - A call is made inside `if player:isLoaded() then ... end` block i.e. the call checks for the player first.
 > - A call is made inside `ENTITY_INIT`, `TICK`, `RENDER` or `POST_RENDER` event.
 >
-> Not doing so will give the following error: `Tried to access Entity API before its initialization in the ENTITY_INIT event...`
+> Not doing so will give the following error: `Tried to access the Entity API before its initialization in the ENTITY_INIT event...`
 
 
 | Getters                                                                       |                                                                               |
