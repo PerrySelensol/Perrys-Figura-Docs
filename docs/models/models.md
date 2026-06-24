@@ -54,8 +54,8 @@ L_Arm:setScale(1, 10, 1) -- Resize the group
 
 | Blockbench's Groups, Cubes and Meshes        | Figura's Task Objects                            |
 | -------------------------------------------- | ------------------------------------------------ |
-| [ModelPart](/models/model_part)  | [BlockTask](/models/block_task)      |
-| [Vertex](/models/vertex)         | [ItemTask](/models/item_task)        |
-|                                              | [RenderTask](/models/render_task)    |
-|                                              | [SpriteTask](/models/sprite_task)    |
-|                                              | [TextureTask](/models/texture_task)  |
+| [ModelPart]({{ "/models/model_part" | relative_url }})  | [BlockTask]({{ "/models/model_part" | relative_url }})      |
+| [Vertex]({{ "/models/vertex" | relative_url }})         | [ItemTask]({{ "/models/vertex" | relative_url }})        |
+|                                              | [RenderTask]({{ "/models/render_task" | relative_url }})    |
+|                                              | [SpriteTask]({{ "/models/sprite_task" | relative_url }})    |
+|                                              | [TextureTask]({{ "/models/texture_task" | relative_url }})  |

@@ -43,55 +43,55 @@ The list below gives all the functions found in `player` table.
 
 | Getters                                                                       |                                                                               |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [getAbsorptionAmount](/player/full1#getAbsorptionAmount)                 | [getLookDir](/player/full1#getLookDir)                                   |
-| [getActiveHand](/player/full1#getActiveHand)                             | [getMaxAir](/player/full1#getMaxAir)                                     |
-| [getActiveItem](/player/full1#getActiveItem)                             | [getMaxHealth](/player/full1#getMaxHealth)                               |
-| [getActiveItemTime](/player/full1#getActiveItemTime)                     | [getModelType](/player/full1#getModelType)                               |
-| [getArmor](/player/full1#getArmor)                                       | [getName](/player/full1#getName)                                         |
-| [getArrowCount](/player/full1#getArrowCount)                             | [getNbt](/player/full1#getNbt)                                           |
-| [getBodyYaw](/player/full1#getBodyYaw)                                   | [getNearestEntity](/player/full1#getNearestEntity)                       |
-| [getBoundingBox](/player/full1#getBoundingBox)                           | [getPassengers](/player/full1#getPassengers)                             |
-| [getChargedAttackDelay](/player/full1#getChargedAttackDelay)             | [getPermissionLevel](/player/full1#getPermissionLevel)                   |
-| [getControlledVehicle](/player/full1#getControlledVehicle)               | [getPos](/player/full1#getPos)                                           |
-| [getControllingPassenger](/player/full1#getControllingPassenger)         | [getPose](/player/full1#getPose)                                         |
-| [getCooldownPercent](/player/full1#getCooldownPercent)                   | [getRot](/player/full1#getRot)                                           |
-| [getDeathTime](/player/full1#getDeathTime)                               | [getSaturation](/player/full1#getSaturation)                             |
-| [getDimensionName](/player/full1#getDimensionName)                       | [getShoulderEntity](/player/full1#getShoulderEntity)                     |
-| [getEntityCategory](/player/full1#getEntityCategory)                     | [getStingerCount](/player/full1#getStingerCount)                         |
-| [getExhaustion](/player/full1#getExhaustion)                             | [getSwingArm](/player/full1#getSwingArm)                                 |
-| [getExperienceLevel](/player/full1#getExperienceLevel)                   | [getSwingDuration](/player/full1#getSwingDuration)                       |
-| [getExperienceProgress](/player/full1#getExperienceProgress)             | [getSwingTime](/player/full1#getSwingTime)                               |
-| [getEyeHeight](/player/full1#getEyeHeight)                               | [getTargetedBlock](/player/full1#getTargetedBlock)                       |
-| [getEyeY](/player/full1#getEyeY)                                         | [getTargetedEntity](/player/full1#getTargetedEntity)                     |
-| [getFood](/player/full1#getFood)                                         | [getTeamInfo](/player/full1#getTeamInfo)                                 |
-| [getFrozenTicks](/player/full1#getFrozenTicks)                           | [getType](/player/full1#getType)                                         |
-| [getGamemode](/player/full1#getGamemode)                                 | [getUUID](/player/full1#getUUID)                                         |
-| [getHealth](/player/full1#getHealth)                                     | [getVariable](/player/full1#getVariable)                                 |
-| [getHeldItem](/player/full1#getHeldItem)                                 | [getVehicle](/player/full1#getVehicle)                                   |
-| [getItem](/player/full1#getItem)                                         | [getVelocity](/player/full1#getVelocity)                                 |
+| [getAbsorptionAmount]({{ "/player/full1#getAbsorptionAmount" | relative_url }})                 | [getLookDir]({{ "/player/full1#getAbsorptionAmount" | relative_url }})                                   |
+| [getActiveHand]({{ "/player/full1#getActiveHand" | relative_url }})                             | [getMaxAir]({{ "/player/full1#getActiveHand" | relative_url }})                                     |
+| [getActiveItem]({{ "/player/full1#getActiveItem" | relative_url }})                             | [getMaxHealth]({{ "/player/full1#getActiveItem" | relative_url }})                               |
+| [getActiveItemTime]({{ "/player/full1#getActiveItemTime" | relative_url }})                     | [getModelType]({{ "/player/full1#getActiveItemTime" | relative_url }})                               |
+| [getArmor]({{ "/player/full1#getArmor" | relative_url }})                                       | [getName]({{ "/player/full1#getArmor" | relative_url }})                                         |
+| [getArrowCount]({{ "/player/full1#getArrowCount" | relative_url }})                             | [getNbt]({{ "/player/full1#getArrowCount" | relative_url }})                                           |
+| [getBodyYaw]({{ "/player/full1#getBodyYaw" | relative_url }})                                   | [getNearestEntity]({{ "/player/full1#getBodyYaw" | relative_url }})                       |
+| [getBoundingBox]({{ "/player/full1#getBoundingBox" | relative_url }})                           | [getPassengers]({{ "/player/full1#getBoundingBox" | relative_url }})                             |
+| [getChargedAttackDelay]({{ "/player/full1#getChargedAttackDelay" | relative_url }})             | [getPermissionLevel]({{ "/player/full1#getChargedAttackDelay" | relative_url }})                   |
+| [getControlledVehicle]({{ "/player/full1#getControlledVehicle" | relative_url }})               | [getPos]({{ "/player/full1#getControlledVehicle" | relative_url }})                                           |
+| [getControllingPassenger]({{ "/player/full1#getControllingPassenger" | relative_url }})         | [getPose]({{ "/player/full1#getControllingPassenger" | relative_url }})                                         |
+| [getCooldownPercent]({{ "/player/full1#getCooldownPercent" | relative_url }})                   | [getRot]({{ "/player/full1#getCooldownPercent" | relative_url }})                                           |
+| [getDeathTime]({{ "/player/full1#getDeathTime" | relative_url }})                               | [getSaturation]({{ "/player/full1#getDeathTime" | relative_url }})                             |
+| [getDimensionName]({{ "/player/full1#getDimensionName" | relative_url }})                       | [getShoulderEntity]({{ "/player/full1#getDimensionName" | relative_url }})                     |
+| [getEntityCategory]({{ "/player/full1#getEntityCategory" | relative_url }})                     | [getStingerCount]({{ "/player/full1#getEntityCategory" | relative_url }})                         |
+| [getExhaustion]({{ "/player/full1#getExhaustion" | relative_url }})                             | [getSwingArm]({{ "/player/full1#getExhaustion" | relative_url }})                                 |
+| [getExperienceLevel]({{ "/player/full1#getExperienceLevel" | relative_url }})                   | [getSwingDuration]({{ "/player/full1#getExperienceLevel" | relative_url }})                       |
+| [getExperienceProgress]({{ "/player/full1#getExperienceProgress" | relative_url }})             | [getSwingTime]({{ "/player/full1#getExperienceProgress" | relative_url }})                               |
+| [getEyeHeight]({{ "/player/full1#getEyeHeight" | relative_url }})                               | [getTargetedBlock]({{ "/player/full1#getEyeHeight" | relative_url }})                       |
+| [getEyeY]({{ "/player/full1#getEyeY" | relative_url }})                                         | [getTargetedEntity]({{ "/player/full1#getEyeY" | relative_url }})                     |
+| [getFood]({{ "/player/full1#getFood" | relative_url }})                                         | [getTeamInfo]({{ "/player/full1#getFood" | relative_url }})                                 |
+| [getFrozenTicks]({{ "/player/full1#getFrozenTicks" | relative_url }})                           | [getType]({{ "/player/full1#getFrozenTicks" | relative_url }})                                         |
+| [getGamemode]({{ "/player/full1#getGamemode" | relative_url }})                                 | [getUUID]({{ "/player/full1#getGamemode" | relative_url }})                                         |
+| [getHealth]({{ "/player/full1#getHealth" | relative_url }})                                     | [getVariable]({{ "/player/full1#getHealth" | relative_url }})                                 |
+| [getHeldItem]({{ "/player/full1#getHeldItem" | relative_url }})                                 | [getVehicle]({{ "/player/full1#getHeldItem" | relative_url }})                                   |
+| [getItem]({{ "/player/full1#getItem" | relative_url }})                                         | [getVelocity]({{ "/player/full1#getItem" | relative_url }})                                 |
 
 
 | Others<span class="hidden">----------------</span>                            | <span class="hidden">      </span>                                            |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [hasAvatar](/player/full2#hasAvatar)                                     | [hasInventory](/player/full2#hasInventory)                               |
-| [hasCape](/player/full2#hasCape)                                         | [hasSkin](/player/full2#hasSkin)                                         |
-| [hasContainer](/player/full2#hasContainer)                               |                                                                               |
+| [hasAvatar]({{ "/player/full2#hasAvatar" | relative_url }})                                     | [hasInventory]({{ "/player/full2#hasAvatar" | relative_url }})                               |
+| [hasCape]({{ "/player/full2#hasCape" | relative_url }})                                         | [hasSkin]({{ "/player/full2#hasCape" | relative_url }})                                         |
+| [hasContainer]({{ "/player/full2#hasContainer" | relative_url }})                               |                                                                               |
 |                                                                               |                                                                               |
-| [isAlive](/player/full2#isAlive)                                         | [isMoving](/player/full2#isMoving)                                       |
-| [isBlocking](/player/full2#isBlocking)                                   | [isOnFire](/player/full2#isOnFire)                                       |
-| [isClimbing](/player/full2#isClimbing)                                   | [isOnGround](/player/full2#isOnGround)                                   |
-| [isCrouching](/player/full2#isCrouching)                                 | [isPlayer](/player/full2#isPlayer)                                       |
-| [isFalling](/player/full2#isFalling)                                     | [isSensitiveToWater](/player/full2#isSensitiveToWater)                   |
-| [isFishing](/player/full2#isFishing)                                     | [isSilent](/player/full2#isSilent)                                       |
-| [isGliding](/player/full2#isGliding)                                     | [isSkinLayerVisible](/player/full2#isSkinLayerVisible)                   |
-| [isGlowing](/player/full2#isGlowing)                                     | [isSneaking](/player/full2#isSneaking)                                   |
-| [isInLava](/player/full2#isInLava)                                       | [isSprinting](/player/full2#isSprinting)                                 |
-| [isInRain](/player/full2#isInRain)                                       | [isSwingingArm](/player/full2#isSwingingArm)                             |
-| [isInvisible](/player/full2#isInvisible)                                 | [isUnderwater](/player/full2#isUnderwater)                               |
-| [isInWater](/player/full2#isInWater)                                     | [isUsingItem](/player/full2#isUsingItem)                                 |
-| [isLeftHanded](/player/full2#isLeftHanded)                               | [isVisuallySwimming](/player/full2#isVisuallySwimming)                   |
-| [isLiving](/player/full2#isLiving)                                       | [isWet](/player/full2#isWet)                                             |
-| [isLoaded](/player/full2#isLoaded)                                       |                                                                               |
+| [isAlive]({{ "/player/full2#isAlive" | relative_url }})                                         | [isMoving]({{ "/player/full2#isAlive" | relative_url }})                                       |
+| [isBlocking]({{ "/player/full2#isBlocking" | relative_url }})                                   | [isOnFire]({{ "/player/full2#isBlocking" | relative_url }})                                       |
+| [isClimbing]({{ "/player/full2#isClimbing" | relative_url }})                                   | [isOnGround]({{ "/player/full2#isClimbing" | relative_url }})                                   |
+| [isCrouching]({{ "/player/full2#isCrouching" | relative_url }})                                 | [isPlayer]({{ "/player/full2#isCrouching" | relative_url }})                                       |
+| [isFalling]({{ "/player/full2#isFalling" | relative_url }})                                     | [isSensitiveToWater]({{ "/player/full2#isFalling" | relative_url }})                   |
+| [isFishing]({{ "/player/full2#isFishing" | relative_url }})                                     | [isSilent]({{ "/player/full2#isFishing" | relative_url }})                                       |
+| [isGliding]({{ "/player/full2#isGliding" | relative_url }})                                     | [isSkinLayerVisible]({{ "/player/full2#isGliding" | relative_url }})                   |
+| [isGlowing]({{ "/player/full2#isGlowing" | relative_url }})                                     | [isSneaking]({{ "/player/full2#isGlowing" | relative_url }})                                   |
+| [isInLava]({{ "/player/full2#isInLava" | relative_url }})                                       | [isSprinting]({{ "/player/full2#isInLava" | relative_url }})                                 |
+| [isInRain]({{ "/player/full2#isInRain" | relative_url }})                                       | [isSwingingArm]({{ "/player/full2#isInRain" | relative_url }})                             |
+| [isInvisible]({{ "/player/full2#isInvisible" | relative_url }})                                 | [isUnderwater]({{ "/player/full2#isInvisible" | relative_url }})                               |
+| [isInWater]({{ "/player/full2#isInWater" | relative_url }})                                     | [isUsingItem]({{ "/player/full2#isInWater" | relative_url }})                                 |
+| [isLeftHanded]({{ "/player/full2#isLeftHanded" | relative_url }})                               | [isVisuallySwimming]({{ "/player/full2#isLeftHanded" | relative_url }})                   |
+| [isLiving]({{ "/player/full2#isLiving" | relative_url }})                                       | [isWet]({{ "/player/full2#isLiving" | relative_url }})                                             |
+| [isLoaded]({{ "/player/full2#isLoaded" | relative_url }})                                       |                                                                               |
 
 
 
