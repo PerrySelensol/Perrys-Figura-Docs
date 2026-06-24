@@ -3,7 +3,7 @@ layout: page
 title: Common Issues
 permalink: /issues
 has_toc: false
-nav_order: 2
+nav_order: 99
 ---
 
 <center style="font-size: 3em;">Common Issues</center>
@@ -20,7 +20,7 @@ This is by far the most terrifying curse that tortures many figura users with ve
 
 One of our survivors, GNanimates, has a story to tell you the moment he saw someone getting infected with the curse and trying to attack him afterwards. He too got EntityAPI'd immediately after this.
 <audio controls="controls">
-  <source type="audio/mp3" src='figura_stories.mp3'></source>
+  <source type="audio/mp3" src='{{"docs_assets/figura_stories.mp3" | relative_url}}'></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 

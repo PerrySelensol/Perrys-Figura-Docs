@@ -1,8 +1,7 @@
 ---
-layout: page
 parent: Basic Functions
+layout: page
 title: All Basic Functions
-permalink: /basic_func/full
 ---
 
 <center style="font-size: 3em;">Basic Functions</center>

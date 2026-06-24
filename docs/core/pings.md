@@ -1,7 +1,8 @@
 ---
+parent: Core
+nav_order: 3
 layout: page
 title: Pings
-permalink: /pings
 ---
 
 <center style="font-size: 3em;">Pings</center>

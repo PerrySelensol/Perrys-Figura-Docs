@@ -1,8 +1,7 @@
 ---
-layout: page
 parent: ModelPart Objects
+layout: page
 title: All Part Appearence
-permalink: /models/model_part/full2
 ---
 
 <center style="font-size: 3em;">ModelPart Functions</center>

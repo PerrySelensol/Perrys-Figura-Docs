@@ -1,13 +1,10 @@
 ---
-layout: page
 parent: Player and Entities
+layout: page
 title: All Player Getters
-permalink: /player/full1
 ---
 
-<center style="font-size: 3em;">Player Functions</center>
-
-<center style="font-size: 2em;">Getters</center>
+<center style="font-size: 3em;">All Player Getters</center>
 
 ***
 

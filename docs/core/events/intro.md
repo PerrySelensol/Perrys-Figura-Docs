@@ -1,11 +1,11 @@
 ---
-layout: page
 parent: Events
+nav_order: 1
+layout: page
 title: Introduction
-permalink: /events/intro
+
 search_exclude: true
 has_toc: false
-nav_order: 1
 ---
 
 <center style="font-size: 3em;">Events</center>

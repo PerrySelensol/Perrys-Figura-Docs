@@ -1,9 +1,8 @@
 ---
-layout: page
 parent: Events
-title: All Events
-permalink: /events/full
 nav_order: 2
+layout: page
+title: All Events
 ---
 
 <center style="font-size: 3em;">Events</center>
