@@ -20,7 +20,7 @@ This is by far the most terrifying curse that tortures many figura users with ve
 
 One of our survivors, GNanimates, has a story to tell you the moment he saw someone getting infected with the curse and trying to attack him afterwards. He too got EntityAPI'd immediately after this.
 <audio controls="controls">
-  <source type="audio/mp3" src='{{ "/docs_assets/figura_stories.mp3" | relative_url }}'></source>
+  <source type="audio/mp3" src='figura_stories.mp3'></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 

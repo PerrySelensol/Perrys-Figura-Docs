@@ -23,13 +23,13 @@ has_toc: false
 
 | Rendering Events                                                | Client Inputs                                                         |
 | ----------------------------------------------------------      | --------------------------------------------------------------------- |
-| [ENTITY_INIT]({{ "/events/full#ENTITY_INIT" | relative_url }})             | [CHAT_SEND_MESSAGE]({{ "/events/full#ENTITY_INIT" | relative_url }})       |
-| [TICK]({{ "/events/full#TICK" | relative_url }})                           | [CHAT_RECEIVE_MESSAGE]({{ "/events/full#TICK" | relative_url }}) |
-| [WORLD_TICK]({{ "/events/full#WORLD_TICK" | relative_url }})               | [MOUSE_SCROLL]({{ "/events/full#WORLD_TICK" | relative_url }})                 |
-| [RENDER]({{ "/events/full#RENDER" | relative_url }})                       | [MOUSE_MOVE]({{ "/events/full#RENDER" | relative_url }})                     |
-| [POST_RENDER]({{ "/events/full#POST_RENDER" | relative_url }})             | [MOUSE_PRESS]({{ "/events/full#POST_RENDER" | relative_url }})                   |
-| [WORLD_RENDER]({{ "/events/full#WORLD_RENDER" | relative_url }})           | [KEY_PRESS]({{ "/events/full#WORLD_RENDER" | relative_url }})                       |
-| [POST_WORLD_RENDER]({{ "/events/full#POST_WORLD_RENDER" | relative_url }}) | [CHAR_TYPED]({{ "/events/full#POST_WORLD_RENDER" | relative_url }})                     |
-| [SKULL_RENDER]({{ "/events/full#SKULL_RENDER" | relative_url }})           | [USE_ITEM]({{ "/events/full#SKULL_RENDER" | relative_url }})                         |
-| [ARROW_RENDER]({{ "/events/full#ARROW_RENDER" | relative_url }})           | [ON_PLAY_SOUND]({{ "/events/full#ARROW_RENDER" | relative_url }})               |
-| [ITEM_RENDER]({{ "/events/full#ITEM_RENDER" | relative_url }})             | [RESOURCE_RELOAD]({{ "/events/full#ITEM_RENDER" | relative_url }})           |
+| [ENTITY_INIT](full#ENTITY_INIT)             | [CHAT_SEND_MESSAGE](full#ENTITY_INIT)       |
+| [TICK](full#TICK)                           | [CHAT_RECEIVE_MESSAGE](full#TICK) |
+| [WORLD_TICK](full#WORLD_TICK)               | [MOUSE_SCROLL](full#WORLD_TICK)                 |
+| [RENDER](full#RENDER)                       | [MOUSE_MOVE](full#RENDER)                     |
+| [POST_RENDER](full#POST_RENDER)             | [MOUSE_PRESS](full#POST_RENDER)                   |
+| [WORLD_RENDER](full#WORLD_RENDER)           | [KEY_PRESS](full#WORLD_RENDER)                       |
+| [POST_WORLD_RENDER](full#POST_WORLD_RENDER) | [CHAR_TYPED](full#POST_WORLD_RENDER)                     |
+| [SKULL_RENDER](full#SKULL_RENDER)           | [USE_ITEM](full#SKULL_RENDER)                         |
+| [ARROW_RENDER](full#ARROW_RENDER)           | [ON_PLAY_SOUND](full#ARROW_RENDER)               |
+| [ITEM_RENDER](full#ITEM_RENDER)             | [RESOURCE_RELOAD](full#ITEM_RENDER)           |

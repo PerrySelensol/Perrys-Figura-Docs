@@ -20,7 +20,7 @@ Note that Figura only uses a subset of Lua, namely it lacks I/O library, operati
 ## Core
 
 - [Basic Functions]({{ "basic_func" | relative_url }})
-- [Events]({{ "events/intro" | relative_url }}) &nbsp;(&#8202;[List]({{ "events/intro" | relative_url }})&#8202;)
+- [Events](intro) &nbsp;(&#8202;[List](intro)&#8202;)
 - [Pings]({{ "pings" | relative_url }})
 
 ## Player Customizations

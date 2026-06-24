@@ -27,7 +27,7 @@ All of `ModelPart` objects can be accessed via the `models` table. The table is 
 Thus, to get a model file called `player.bbmodel` and then get a group called `LeftArm` inside a `Root` group, the indexing will be `models.player.Root.LeftArm`
 
 <figure>
-    <img src='{{ "/docs_assets/player_outliner.png" | relative_url }}' height="250">
+    <img src='player_outliner.png' height="250">
     <figcaption>Outline of the example model file "player.bbmodel" viewed in Blockbench</figcaption>
 </figure>
 
@@ -54,8 +54,8 @@ L_Arm:setScale(1, 10, 1) -- Resize the group
 
 | Blockbench's Groups, Cubes and Meshes                   | Figura's Task Objects                                       |
 | ------------------------------------------------------- | ----------------------------------------------------------- |
-| [ModelPart]({{ "/models/model_part" | relative_url }})  | [BlockTask]({{ "/models/model_part" | relative_url }})      |
-| [Vertex]({{ "/models/vertex" | relative_url }})         | [ItemTask]({{ "/models/vertex" | relative_url }})           |
-|                                                         | [RenderTask]({{ "/models/render_task" | relative_url }})    |
-|                                                         | [SpriteTask]({{ "/models/sprite_task" | relative_url }})    |
-|                                                         | [TextureTask]({{ "/models/texture_task" | relative_url }})  |
+| [ModelPart](model_part)  | [BlockTask](model_part)      |
+| [Vertex](vertex)         | [ItemTask](vertex)           |
+|                                                         | [RenderTask](render_task)    |
+|                                                         | [SpriteTask](sprite_task)    |
+|                                                         | [TextureTask](texture_task)  |

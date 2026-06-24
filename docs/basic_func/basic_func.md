@@ -26,7 +26,7 @@ These are basic and simple functions in Figura. All but `require` are usually fo
 
 | Debugging Tools                                                  | Special                                                    |
 | ---------------------------------------------------------------- | ---------------------------------------------------------- |
-| [print]({{ "/basic_func/full#print" | relative_url}})            | [require]({{ "/basic_func/full#require" | relative_url }}) |
-| [printJson]({{ "/basic_func/full#printJson" | relative_url }})   |                                                            |
-| [printTable]({{ "/basic_func/full#printTable" | relative_url }}) |                                                            |
-| [listFiles]({{ "/basic_func/full#listFiles" | relative_url }})   |                                                            |
+| [print](full#print)            | [require](full#require) |
+| [printJson](full#printJson)   |                                                            |
+| [printTable](full#printTable) |                                                            |
+| [listFiles](full#listFiles)   |                                                            |

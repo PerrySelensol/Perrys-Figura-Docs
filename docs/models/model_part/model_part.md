@@ -29,7 +29,7 @@ has_toc: false
 Thus, if a model file is called `player.bbmodel` which has hierachy as shown below and you want to index `Head` group, then the index is `models.player.Root.Head`
 
 <figure>
-    <img src='{{ "/docs_assets/player_outliner.png" | relative_url }}' height="250">
+    <img src='player_outliner.png' height="250">
     <figcaption>Outline of the example model file "player.bbmodel" viewed in Blockbench</figcaption>
 </figure>
 
@@ -44,76 +44,76 @@ Examples in each of these methods and fields will use the `player.bbmodel` examp
 
 | Part Transformations                                                                            |                                                                                                 |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [getPos]({{ "/models/model_part/full1#getPos" | relative_url }})                                | [setPos]({{ "/models/model_part/full1#getPos" | relative_url }})                                |
-| [getRot]({{ "/models/model_part/full1#getRot" | relative_url }})                                | [setRot]({{ "/models/model_part/full1#getRot" | relative_url }})                                |
-| [getScale]({{ "/models/model_part/full1#getScale" | relative_url }})                            | [setScale]({{ "/models/model_part/full1#getScale" | relative_url }})                            |
-| [getPivot]({{ "/models/model_part/full1#getPivot" | relative_url }})                            | [setPivot]({{ "/models/model_part/full1#getPivot" | relative_url }})                            |
+| [getPos](model_part/full1#getPos)                                | [setPos](model_part/full1#getPos)                                |
+| [getRot](model_part/full1#getRot)                                | [setRot](model_part/full1#getRot)                                |
+| [getScale](model_part/full1#getScale)                            | [setScale](model_part/full1#getScale)                            |
+| [getPivot](model_part/full1#getPivot)                            | [setPivot](model_part/full1#getPivot)                            |
 |                                                                                                 |                                                                                                 |
-| [getOffsetRot]({{ "/models/model_part/full1#getOffsetRot" | relative_url }})                    | [setOffsetRot]({{ "/models/model_part/full1#getOffsetRot" | relative_url }})                    |
-| [getOffsetScale]({{ "/models/model_part/full1#getOffsetScale" | relative_url }})                | [setOffsetScale]({{ "/models/model_part/full1#getOffsetScale" | relative_url }})                |
-| [getOffsetPivot]({{ "/models/model_part/full1#getOffsetPivot" | relative_url }})                | [setOffsetPivot]({{ "/models/model_part/full1#getOffsetPivot" | relative_url }})                |
+| [getOffsetRot](model_part/full1#getOffsetRot)                    | [setOffsetRot](model_part/full1#getOffsetRot)                    |
+| [getOffsetScale](model_part/full1#getOffsetScale)                | [setOffsetScale](model_part/full1#getOffsetScale)                |
+| [getOffsetPivot](model_part/full1#getOffsetPivot)                | [setOffsetPivot](model_part/full1#getOffsetPivot)                |
 |                                                                                                 |                                                                                                 |
-| [getTruePos]({{ "/models/model_part/full1#getTruePos" | relative_url }})                        | [getAnimPos]({{ "/models/model_part/full1#getTruePos" | relative_url }})                        |
-| [getTrueRot]({{ "/models/model_part/full1#getTrueRot" | relative_url }})                        | [getAnimRot]({{ "/models/model_part/full1#getTrueRot" | relative_url }})                        |
-| [getTrueScale]({{ "/models/model_part/full1#getTrueScale" | relative_url }})                    | [getAnimScale]({{ "/models/model_part/full1#getTrueScale" | relative_url }})                    |
-| [getTruePivot]({{ "/models/model_part/full1#getTruePivot" | relative_url }})                    |                                                                                                 |
+| [getTruePos](model_part/full1#getTruePos)                        | [getAnimPos](model_part/full1#getTruePos)                        |
+| [getTrueRot](model_part/full1#getTrueRot)                        | [getAnimRot](model_part/full1#getTrueRot)                        |
+| [getTrueScale](model_part/full1#getTrueScale)                    | [getAnimScale](model_part/full1#getTrueScale)                    |
+| [getTruePivot](model_part/full1#getTruePivot)                    |                                                                                                 |
 
 | Appearence                                                                                      |                                                                                                 |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [getVisible]({{ "/models/model_part/full2#getVisible" | relative_url }})                        | [setVisible]({{ "/models/model_part/full2#getVisible" | relative_url }})                        |
-| [getUV]({{ "/models/model_part/full2#getUV" | relative_url }})                                  | [setUV]({{ "/models/model_part/full2#getUV" | relative_url }})                                  |
-| [getUVPixels]({{ "/models/model_part/full2#getUVPixels" | relative_url }})                      | [setUVPixels]({{ "/models/model_part/full2#getUVPixels" | relative_url }})                      |
+| [getVisible](model_part/full2#getVisible)                        | [setVisible](model_part/full2#getVisible)                        |
+| [getUV](model_part/full2#getUV)                                  | [setUV](model_part/full2#getUV)                                  |
+| [getUVPixels](model_part/full2#getUVPixels)                      | [setUVPixels](model_part/full2#getUVPixels)                      |
 |                                                                                                 |                                                                                                 |
-| [getColor]({{ "/models/model_part/full2#getColor" | relative_url }})                            | [setColor]({{ "/models/model_part/full2#getColor" | relative_url }})                            |
-| [getPrimaryColor]({{ "/models/model_part/full2#getPrimaryColor" | relative_url }})              | [setPrimaryColor]({{ "/models/model_part/full2#getPrimaryColor" | relative_url }})              |
-| [getSecondaryColor]({{ "/models/model_part/full2#getSecondaryColor" | relative_url }})          | [setSecondaryColor]({{ "/models/model_part/full2#getSecondaryColor" | relative_url }})          |
+| [getColor](model_part/full2#getColor)                            | [setColor](model_part/full2#getColor)                            |
+| [getPrimaryColor](model_part/full2#getPrimaryColor)              | [setPrimaryColor](model_part/full2#getPrimaryColor)              |
+| [getSecondaryColor](model_part/full2#getSecondaryColor)          | [setSecondaryColor](model_part/full2#getSecondaryColor)          |
 |                                                                                                 |                                                                                                 |
-| [getPrimaryRenderType]({{ "/models/model_part/full2#getPrimaryRenderType" | relative_url }})    | [setPrimaryRenderType]({{ "/models/model_part/full2#getPrimaryRenderType" | relative_url }})    |
-| [getSecondaryRenderType]({{ "/models/model_part/full2#getSecondaryRenderType" | relative_url }})| [setSecondaryRenderType]({{ "/models/model_part/full2#getSecondaryRenderType" | relative_url }})|
+| [getPrimaryRenderType](model_part/full2#getPrimaryRenderType)    | [setPrimaryRenderType](model_part/full2#getPrimaryRenderType)    |
+| [getSecondaryRenderType](model_part/full2#getSecondaryRenderType)| [setSecondaryRenderType](model_part/full2#getSecondaryRenderType)|
 |                                                                                                 |                                                                                                 |
-| [getTextures]({{ "/models/model_part/full#getTextures" | relative_url }})                       | [setPrimaryTexture]({{ "/models/model_part/full#getTextures" | relative_url }})                 |
-| [getTextureSize]({{ "/models/model_part/full#getTextureSize" | relative_url }})                 | [setSecondaryTexture]({{ "/models/model_part/full#getTextureSize" | relative_url }})            |
+| [getTextures](model_part/full#getTextures)                       | [setPrimaryTexture](model_part/full#getTextures)                 |
+| [getTextureSize](model_part/full#getTextureSize)                 | [setSecondaryTexture](model_part/full#getTextureSize)            |
 |                                                                                                 |                                                                                                 |
-| [getOpacity]({{ "/models/model_part/full2#getOpacity" | relative_url }})                        | [setOpacity]({{ "/models/model_part/full2#getOpacity" | relative_url }})                        |
-| [getOverlay]({{ "/models/model_part/full#getOverlay" | relative_url }})                         | [setOverlay]({{ "/models/model_part/full#getOverlay" | relative_url }})                         |
+| [getOpacity](model_part/full2#getOpacity)                        | [setOpacity](model_part/full2#getOpacity)                        |
+| [getOverlay](model_part/full#getOverlay)                         | [setOverlay](model_part/full#getOverlay)                         |
 |                                                                                                 |                                                                                                 |
-| [getLight]({{ "/models/model_part/full#getLight" | relative_url }})                             | [setLight]({{ "/models/model_part/full#getLight" | relative_url }})                             |
-| [getUVMatrix]({{ "/models/model_part/full2#getUVMatrix" | relative_url }})                      | [setUVMatrix]({{ "/models/model_part/full2#getUVMatrix" | relative_url }})                      |
+| [getLight](model_part/full#getLight)                             | [setLight](model_part/full#getLight)                             |
+| [getUVMatrix](model_part/full2#getUVMatrix)                      | [setUVMatrix](model_part/full2#getUVMatrix)                      |
 
 | Part Properties                                                                                 |                                                                                                 |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [getParentType]({{ "/models/model_part/full1#getParentType" | relative_url }})                  | [setParentType]({{ "/models/model_part/full1#getParentType" | relative_url }})                  |
+| [getParentType](model_part/full1#getParentType)                  | [setParentType](model_part/full1#getParentType)                  |
 |                                                                                                 |                                                                                                 |
-| [getName]({{ "/models/model_part/full#getName" | relative_url }})                               | [setMidRender]({{ "/models/model_part/full#getName" | relative_url }})                          |
-| [getType]({{ "/models/model_part/full#getType" | relative_url }})                               | [setPostRender]({{ "/models/model_part/full#getType" | relative_url }})                         |
-| [getParent]({{ "/models/model_part/full#getParent" | relative_url }})                           | [setPreRender]({{ "/models/model_part/full#getParent" | relative_url }})                        |
-| [getChildren]({{ "/models/model_part/full#getChildren" | relative_url }})                       |                                                                                                 |
+| [getName](model_part/full#getName)                               | [setMidRender](model_part/full#getName)                          |
+| [getType](model_part/full#getType)                               | [setPostRender](model_part/full#getType)                         |
+| [getParent](model_part/full#getParent)                           | [setPreRender](model_part/full#getParent)                        |
+| [getChildren](model_part/full#getChildren)                       |                                                                                                 |
 |                                                                                                 |                                                                                                 |
-| [overrideVanillaPos]({{ "/models/model_part/full#overrideVanillaPos" | relative_url }})         | [getAllVertices]({{ "/models/model_part/full#overrideVanillaPos" | relative_url }})             |
-| [overrideVanillaRot]({{ "/models/model_part/full#overrideVanillaRot" | relative_url }})         | [getVertices]({{ "/models/model_part/full#overrideVanillaRot" | relative_url }})                |
-| [overrideVanillaScale]({{ "/models/model_part/full#overrideVanillaScale" | relative_url }})     |                                                                                                 |
+| [overrideVanillaPos](model_part/full#overrideVanillaPos)         | [getAllVertices](model_part/full#overrideVanillaPos)             |
+| [overrideVanillaRot](model_part/full#overrideVanillaRot)         | [getVertices](model_part/full#overrideVanillaRot)                |
+| [overrideVanillaScale](model_part/full#overrideVanillaScale)     |                                                                                                 |
 
 | Part Transformations via Matrices                                                               |                                                                                                 |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [partToWorldMatrix]({{ "/models/model_part/full#partToWorldMatrix" | relative_url }})           | [setMatrix]({{ "/models/model_part/full#partToWorldMatrix" | relative_url }})                   |
-| [getPositionMatrix]({{ "/models/model_part/full#getPositionMatrix" | relative_url }})           |                                                                                                 |
-| [getPositionMatrixRaw]({{ "/models/model_part/full#getPositionMatrixRaw" | relative_url }})     |                                                                                                 |
-| [getNormalMatrix]({{ "/models/model_part/full#getNormalMatrix" | relative_url }})               |                                                                                                 |
-| [getNormalMatrixRaw]({{ "/models/model_part/full#getNormalMatrixRaw" | relative_url }})         |                                                                                                 |
+| [partToWorldMatrix](model_part/full#partToWorldMatrix)           | [setMatrix](model_part/full#partToWorldMatrix)                   |
+| [getPositionMatrix](model_part/full#getPositionMatrix)           |                                                                                                 |
+| [getPositionMatrixRaw](model_part/full#getPositionMatrixRaw)     |                                                                                                 |
+| [getNormalMatrix](model_part/full#getNormalMatrix)               |                                                                                                 |
+| [getNormalMatrixRaw](model_part/full#getNormalMatrixRaw)         |                                                                                                 |
 
 | Miscellaneous                                                                                   | Fields                                                                                          |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [newText]({{ "/models/model_part/full#newText" | relative_url }})                               | [preRender]({{ "/models/model_part/full#newText" | relative_url }})                             |
-| [newBlock]({{ "/models/model_part/full#newBlock" | relative_url }})                             | [postRender]({{ "/models/model_part/full#newBlock" | relative_url }})                           |
-| [newItem]({{ "/models/model_part/full#newItem" | relative_url }})                               | [midRender]({{ "/models/model_part/full#newItem" | relative_url }})                             |
-| [newSprite]({{ "/models/model_part/full#newSprite" | relative_url }})                           |                                                                                                 |
-| [newTask]({{ "/models/model_part/full#newTask" | relative_url }})                               |                                                                                                 |
-| [newPart]({{ "/models/model_part/full#newPart" | relative_url }})                               |                                                                                                 |
-| [removeTask]({{ "/models/model_part/full#removeTask" | relative_url }})                         |                                                                                                 |
-| [getTask]({{ "/models/model_part/full#getTask" | relative_url }})                               |                                                                                                 |
+| [newText](model_part/full#newText)                               | [preRender](model_part/full#newText)                             |
+| [newBlock](model_part/full#newBlock)                             | [postRender](model_part/full#newBlock)                           |
+| [newItem](model_part/full#newItem)                               | [midRender](model_part/full#newItem)                             |
+| [newSprite](model_part/full#newSprite)                           |                                                                                                 |
+| [newTask](model_part/full#newTask)                               |                                                                                                 |
+| [newPart](model_part/full#newPart)                               |                                                                                                 |
+| [removeTask](model_part/full#removeTask)                         |                                                                                                 |
+| [getTask](model_part/full#getTask)                               |                                                                                                 |
 |                                                                                                 |                                                                                                 |
-| [addChild]({{ "/models/model_part/full#addChild" | relative_url }})                             |                                                                                                 |
-| [moveTo]({{ "/models/model_part/full#moveTo" | relative_url }})                                 |                                                                                                 |
-| [copy]({{ "/models/model_part/full#copy" | relative_url }})                                     |                                                                                                 |
-| [removeChild]({{ "/models/model_part/full#removeChild" | relative_url }})                       |                                                                                                 |
-| [isChildOf]({{ "/models/model_part/full#isChildOf" | relative_url }})                           |                                                                                                 |
+| [addChild](model_part/full#addChild)                             |                                                                                                 |
+| [moveTo](model_part/full#moveTo)                                 |                                                                                                 |
+| [copy](model_part/full#copy)                                     |                                                                                                 |
+| [removeChild](model_part/full#removeChild)                       |                                                                                                 |
+| [isChildOf](model_part/full#isChildOf)                           |                                                                                                 |
