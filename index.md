@@ -17,7 +17,7 @@ has_toc: false
 
 ## Player Customizations
 
-- [Model]({{ "models" | relative_url }}) &nbsp;(&#8202;[List]({{ "models" | relative_url }})&#8202;)
+- [Model]({{ "models" | relative_url }}) &nbsp;(&#8202;[List]({{ "models#object_list" | relative_url }})&#8202;)
 - [Vanilla Model (Not available yet)]({{ "vanilla_model" | relative_url }})
 - [Nameplate (Not available yet)]({{ "nameplate" | relative_url }})
 - [Action Wheel (Not available yet)]({{ "action_wheel" | relative_url }})

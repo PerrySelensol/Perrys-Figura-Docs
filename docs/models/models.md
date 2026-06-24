@@ -3,6 +3,7 @@ layout: page
 parent: Figura Documentation
 title: Models
 permalink: /models
+has_toc: false
 ---
 
 <style> span.hidden {visibility: hidden;} </style>
@@ -52,10 +53,10 @@ L_Arm:setScale(1, 10, 1) -- Resize the group
 
 <h2 id="object_list">Types of objects in avatar models</h2>
 
-| Blockbench's Groups, Cubes and Meshes        | Figura's Task Objects                            |
-| -------------------------------------------- | ------------------------------------------------ |
+| Blockbench's Groups, Cubes and Meshes                   | Figura's Task Objects                                       |
+| ------------------------------------------------------- | ----------------------------------------------------------- |
 | [ModelPart]({{ "/models/model_part" | relative_url }})  | [BlockTask]({{ "/models/model_part" | relative_url }})      |
-| [Vertex]({{ "/models/vertex" | relative_url }})         | [ItemTask]({{ "/models/vertex" | relative_url }})        |
-|                                              | [RenderTask]({{ "/models/render_task" | relative_url }})    |
-|                                              | [SpriteTask]({{ "/models/sprite_task" | relative_url }})    |
-|                                              | [TextureTask]({{ "/models/texture_task" | relative_url }})  |
+| [Vertex]({{ "/models/vertex" | relative_url }})         | [ItemTask]({{ "/models/vertex" | relative_url }})           |
+|                                                         | [RenderTask]({{ "/models/render_task" | relative_url }})    |
+|                                                         | [SpriteTask]({{ "/models/sprite_task" | relative_url }})    |
+|                                                         | [TextureTask]({{ "/models/texture_task" | relative_url }})  |
