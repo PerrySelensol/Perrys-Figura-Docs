@@ -11,7 +11,7 @@ has_toc: false
 
 ## Fundamentals
 
-- [Basic Functions](/basic_func)
+- [Basic Functions](docs/basic_func/basic_func)
 - [Events](/events/intro) &nbsp;(&#8202;[List](/events)&#8202;)
 - [Pings](/pings)
 
