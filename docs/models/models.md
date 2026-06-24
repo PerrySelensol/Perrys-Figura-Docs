@@ -27,7 +27,7 @@ All of `ModelPart` objects can be accessed via the `models` table. The table is 
 Thus, to get a model file called `player.bbmodel` and then get a group called `LeftArm` inside a `Root` group, the indexing will be `models.player.Root.LeftArm`
 
 <figure>
-    <img src="/docs/images/player_outliner.png" height="250">
+    <img src='{{ "/images/player_outliner.png" | relative_url }}' height="250">
     <figcaption>Outline of the example model file "player.bbmodel" viewed in Blockbench</figcaption>
 </figure>
 

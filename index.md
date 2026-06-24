@@ -11,37 +11,37 @@ has_toc: false
 
 ## Fundamentals
 
-- [Basic Functions](docs/basic_func/basic_func)
-- [Events](/events/intro) &nbsp;(&#8202;[List](/events)&#8202;)
-- [Pings](/pings)
+- [Basic Functions](basic_func)
+- [Events](events/intro) &nbsp;(&#8202;[List](events)&#8202;)
+- [Pings](pings)
 
 ## Player Customizations
 
-- [Model](/models) &nbsp;(&#8202;[List](/models#object_list)&#8202;)
-- [Vanilla Model](/vanilla_model)
-- [Nameplate](/nameplate)
-- [Action Wheel](/action_wheel)
-- [Animations](/animations)
+- [Model](models) &nbsp;(&#8202;[List](models#object_list)&#8202;)
+- [Vanilla Model (Not available yet)](vanilla_model)
+- [Nameplate (Not available yet)](nameplate)
+- [Action Wheel (Not available yet)](action_wheel)
+- [Animations (Not available yet)](animations)
 
 ## Player and World Interactions
 
 - [Player and Entities](/player)
-- [Host](/host)
-- [Client](/client)
-- [World](/world)
-- [Particles](/particles)
-- [Sounds](/sounds)
+- [Host (Not available yet)](/host)
+- [Client (Not available yet)](/client)
+- [World (Not available yet)](/world)
+- [Particles (Not available yet)](/particles)
+- [Sounds (Not available yet)](/sounds)
 
 ## Mathematics
 
 - [Figura's Maths Functions](/math)
-- [Vectors](/vectors)
-- [Matrices](/matrices)
-- [Textures](/textures)
+- [Vectors (Not available yet)](/vectors)
+- [Matrices (Not available yet)](/matrices)
+- [Textures (Not available yet)](/textures)
 
 ## Miscellaneous
 
-- [Avatar](/avatar)
-- [Renderer](/renderer)
-- [Config](/config)
-- [Keybinds](/keybinds)
+- [Avatar (Not available yet)](/avatar)
+- [Renderer (Not available yet)](/renderer)
+- [Config (Not available yet)](/config)
+- [Keybinds (Not available yet)](/keybinds)

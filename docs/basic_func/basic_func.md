@@ -2,7 +2,7 @@
 layout: page
 parent: Figura Documentation
 title: Basic Functions
-# permalink: /basic_func
+permalink: /basic_func
 search_exclude: true
 has_toc: false
 ---
@@ -27,7 +27,7 @@ These are basic and simple functions in Figura. All but `require` are usually fo
 
 | Debugging Tools                                       | Special                                         |
 | ----------------------------------------------------- | ----------------------------------------------- |
-| [print](/basic_func/full#print)           | [require](/basic_func/full#require) |
+| [print]({{ "/basic_func/full#print" | relative_url}})           | [require](/basic_func/full#require) |
 | [printJson](/basic_func/full#printJson)   |                                                 |
 | [printTable](/basic_func/full#printTable) |                                                 |
 | [listFiles](/basic_func/full#listFiles)   |                                                 |
