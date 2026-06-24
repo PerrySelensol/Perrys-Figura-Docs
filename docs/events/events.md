@@ -1,6 +1,5 @@
 ---
 layout: page
-parent: Figura Documentation
 title: Events
 permalink: /events
 search_exclude: true

@@ -1,6 +1,5 @@
 ---
 layout: page
-parent: Figura Documentation
 title: Basic Functions
 permalink: /basic_func
 search_exclude: true

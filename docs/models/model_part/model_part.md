@@ -29,7 +29,7 @@ has_toc: false
 Thus, if a model file is called `player.bbmodel` which has hierachy as shown below and you want to index `Head` group, then the index is `models.player.Root.Head`
 
 <figure>
-    <img src='{{ "/images/player_outliner.png" | relative_url }}' height="250">
+    <img src='{{ "/docs_assets/player_outliner.png" | relative_url }}' height="250">
     <figcaption>Outline of the example model file "player.bbmodel" viewed in Blockbench</figcaption>
 </figure>
 

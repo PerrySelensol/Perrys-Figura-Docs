@@ -1,6 +1,5 @@
 ---
 layout: page
-parent: Figura Documentation
 title: Player and Entities
 permalink: /player
 search_exclude: true

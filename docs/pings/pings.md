@@ -1,6 +1,5 @@
 ---
 layout: page
-parent: Figura Documentation
 title: Pings
 permalink: /pings
 ---
