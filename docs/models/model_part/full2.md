@@ -2,7 +2,7 @@
 layout: page
 parent: ModelPart Objects
 title: All Part Appearence
-permalink: /figura-docs/models/model_part/full2
+permalink: /models/model_part/full2
 ---
 
 <center style="font-size: 3em;">ModelPart Functions</center>

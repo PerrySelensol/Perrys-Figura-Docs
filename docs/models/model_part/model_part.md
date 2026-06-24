@@ -2,7 +2,7 @@
 layout: page
 parent: Models
 title: ModelPart Objects
-permalink: /figura-docs/models/model_part
+permalink: /models/model_part
 search_exclude: true
 has_toc: false
 ---
@@ -44,76 +44,76 @@ Examples in each of these methods and fields will use the `player.bbmodel` examp
 
 | Part Transformations                                                          |                                                                               |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [getPos](/figura-docs/models/model_part/full1#getPos)                                | [setPos](/figura-docs/models/model_part/full1#setPos)                                |
-| [getRot](/figura-docs/models/model_part/full1#getRot)                                | [setRot](/figura-docs/models/model_part/full1#setRot)                                |
-| [getScale](/figura-docs/models/model_part/full1#getScale)                            | [setScale](/figura-docs/models/model_part/full1#setScale)                            |
-| [getPivot](/figura-docs/models/model_part/full1#getPivot)                            | [setPivot](/figura-docs/models/model_part/full1#setPivot)                            |
+| [getPos](/models/model_part/full1#getPos)                                | [setPos](/models/model_part/full1#setPos)                                |
+| [getRot](/models/model_part/full1#getRot)                                | [setRot](/models/model_part/full1#setRot)                                |
+| [getScale](/models/model_part/full1#getScale)                            | [setScale](/models/model_part/full1#setScale)                            |
+| [getPivot](/models/model_part/full1#getPivot)                            | [setPivot](/models/model_part/full1#setPivot)                            |
 |                                                                               |                                                                               |
-| [getOffsetRot](/figura-docs/models/model_part/full1#getOffsetRot)                    | [setOffsetRot](/figura-docs/models/model_part/full1#setOffsetRot)                    |
-| [getOffsetScale](/figura-docs/models/model_part/full1#getOffsetScale)                | [setOffsetScale](/figura-docs/models/model_part/full1#setOffsetScale)                |
-| [getOffsetPivot](/figura-docs/models/model_part/full1#getOffsetPivot)                | [setOffsetPivot](/figura-docs/models/model_part/full1#setOffsetPivot)                |
+| [getOffsetRot](/models/model_part/full1#getOffsetRot)                    | [setOffsetRot](/models/model_part/full1#setOffsetRot)                    |
+| [getOffsetScale](/models/model_part/full1#getOffsetScale)                | [setOffsetScale](/models/model_part/full1#setOffsetScale)                |
+| [getOffsetPivot](/models/model_part/full1#getOffsetPivot)                | [setOffsetPivot](/models/model_part/full1#setOffsetPivot)                |
 |                                                                               |                                                                               |
-| [getTruePos](/figura-docs/models/model_part/full1#getTruePos)                        | [getAnimPos](/figura-docs/models/model_part/full1#getAnimPos)                        |
-| [getTrueRot](/figura-docs/models/model_part/full1#getTrueRot)                        | [getAnimRot](/figura-docs/models/model_part/full1#getAnimRot)                        |
-| [getTrueScale](/figura-docs/models/model_part/full1#getTrueScale)                    | [getAnimScale](/figura-docs/models/model_part/full1#getAnimScale)                    |
-| [getTruePivot](/figura-docs/models/model_part/full1#getTruePivot)                    |                                                                               |
+| [getTruePos](/models/model_part/full1#getTruePos)                        | [getAnimPos](/models/model_part/full1#getAnimPos)                        |
+| [getTrueRot](/models/model_part/full1#getTrueRot)                        | [getAnimRot](/models/model_part/full1#getAnimRot)                        |
+| [getTrueScale](/models/model_part/full1#getTrueScale)                    | [getAnimScale](/models/model_part/full1#getAnimScale)                    |
+| [getTruePivot](/models/model_part/full1#getTruePivot)                    |                                                                               |
 
 | Appearence                                                                    |                                                                               |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [getVisible](/figura-docs/models/model_part/full2#getVisible)                        | [setVisible](/figura-docs/models/model_part/full2#setVisible)                        |
-| [getUV](/figura-docs/models/model_part/full2#getUV)                                  | [setUV](/figura-docs/models/model_part/full2#setUV)                                  |
-| [getUVPixels](/figura-docs/models/model_part/full2#getUVPixels)                      | [setUVPixels](/figura-docs/models/model_part/full2#setUVPixels)                      |
+| [getVisible](/models/model_part/full2#getVisible)                        | [setVisible](/models/model_part/full2#setVisible)                        |
+| [getUV](/models/model_part/full2#getUV)                                  | [setUV](/models/model_part/full2#setUV)                                  |
+| [getUVPixels](/models/model_part/full2#getUVPixels)                      | [setUVPixels](/models/model_part/full2#setUVPixels)                      |
 |                                                                               |                                                                               |
-| [getColor](/figura-docs/models/model_part/full2#getColor)                            | [setColor](/figura-docs/models/model_part/full2#setColor)                            |
-| [getPrimaryColor](/figura-docs/models/model_part/full2#getPrimaryColor)              | [setPrimaryColor](/figura-docs/models/model_part/full2#setPrimaryColor)              |
-| [getSecondaryColor](/figura-docs/models/model_part/full2#getSecondaryColor)          | [setSecondaryColor](/figura-docs/models/model_part/full2#setSecondaryColor)          |
+| [getColor](/models/model_part/full2#getColor)                            | [setColor](/models/model_part/full2#setColor)                            |
+| [getPrimaryColor](/models/model_part/full2#getPrimaryColor)              | [setPrimaryColor](/models/model_part/full2#setPrimaryColor)              |
+| [getSecondaryColor](/models/model_part/full2#getSecondaryColor)          | [setSecondaryColor](/models/model_part/full2#setSecondaryColor)          |
 |                                                                               |                                                                               |
-| [getPrimaryRenderType](/figura-docs/models/model_part/full2#getPrimaryRenderType)    | [setPrimaryRenderType](/figura-docs/models/model_part/full2#setPrimaryRenderType)    |
-| [getSecondaryRenderType](/figura-docs/models/model_part/full2#getSecondaryRenderType)| [setSecondaryRenderType](/figura-docs/models/model_part/full2#setSecondaryRenderType)|
+| [getPrimaryRenderType](/models/model_part/full2#getPrimaryRenderType)    | [setPrimaryRenderType](/models/model_part/full2#setPrimaryRenderType)    |
+| [getSecondaryRenderType](/models/model_part/full2#getSecondaryRenderType)| [setSecondaryRenderType](/models/model_part/full2#setSecondaryRenderType)|
 |                                                                               |                                                                               |
-| [getTextures](/figura-docs/models/model_part/full#getTextures)                       | [setPrimaryTexture](/figura-docs/models/model_part/full#setPrimaryTexture)           |
-| [getTextureSize](/figura-docs/models/model_part/full#getTextureSize)                 | [setSecondaryTexture](/figura-docs/models/model_part/full#setSecondaryTexture)       |
+| [getTextures](/models/model_part/full#getTextures)                       | [setPrimaryTexture](/models/model_part/full#setPrimaryTexture)           |
+| [getTextureSize](/models/model_part/full#getTextureSize)                 | [setSecondaryTexture](/models/model_part/full#setSecondaryTexture)       |
 |                                                                               |                                                                               |
-| [getOpacity](/figura-docs/models/model_part/full2#getOpacity)                        | [setOpacity](/figura-docs/models/model_part/full2#setOpacity)                        |
-| [getOverlay](/figura-docs/models/model_part/full#getOverlay)                         | [setOverlay](/figura-docs/models/model_part/full#setOverlay)                         |
+| [getOpacity](/models/model_part/full2#getOpacity)                        | [setOpacity](/models/model_part/full2#setOpacity)                        |
+| [getOverlay](/models/model_part/full#getOverlay)                         | [setOverlay](/models/model_part/full#setOverlay)                         |
 |                                                                               |                                                                               |
-| [getLight](/figura-docs/models/model_part/full#getLight)                             | [setLight](/figura-docs/models/model_part/full#setLight)                             |
-| [getUVMatrix](/figura-docs/models/model_part/full2#getUVMatrix)                      | [setUVMatrix](/figura-docs/models/model_part/full2#setUVMatrix)                      |
+| [getLight](/models/model_part/full#getLight)                             | [setLight](/models/model_part/full#setLight)                             |
+| [getUVMatrix](/models/model_part/full2#getUVMatrix)                      | [setUVMatrix](/models/model_part/full2#setUVMatrix)                      |
 
 | Part Properties                                                               |                                                                               |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [getParentType](/figura-docs/models/model_part/full1#getParentType)                  | [setParentType](/figura-docs/models/model_part/full1#setParentType)                  |
+| [getParentType](/models/model_part/full1#getParentType)                  | [setParentType](/models/model_part/full1#setParentType)                  |
 |                                                                               |                                                                               |
-| [getName](/figura-docs/models/model_part/full#getName)                               | [setMidRender](/figura-docs/models/model_part/full#setMidRender)                     |
-| [getType](/figura-docs/models/model_part/full#getType)                               | [setPostRender](/figura-docs/models/model_part/full#setPostRender)                   |
-| [getParent](/figura-docs/models/model_part/full#getParent)                           | [setPreRender](/figura-docs/models/model_part/full#setPreRender)                     |
-| [getChildren](/figura-docs/models/model_part/full#getChildren)                       |                                                                               |
+| [getName](/models/model_part/full#getName)                               | [setMidRender](/models/model_part/full#setMidRender)                     |
+| [getType](/models/model_part/full#getType)                               | [setPostRender](/models/model_part/full#setPostRender)                   |
+| [getParent](/models/model_part/full#getParent)                           | [setPreRender](/models/model_part/full#setPreRender)                     |
+| [getChildren](/models/model_part/full#getChildren)                       |                                                                               |
 |                                                                               |                                                                               |
-| [overrideVanillaPos](/figura-docs/models/model_part/full#overrideVanillaPos)         | [getAllVertices](/figura-docs/models/model_part/full#getAllVertices)                 |
-| [overrideVanillaRot](/figura-docs/models/model_part/full#overrideVanillaRot)         | [getVertices](/figura-docs/models/model_part/full#getVertices)                       |
-| [overrideVanillaScale](/figura-docs/models/model_part/full#overrideVanillaScale)     |                                                                               |
+| [overrideVanillaPos](/models/model_part/full#overrideVanillaPos)         | [getAllVertices](/models/model_part/full#getAllVertices)                 |
+| [overrideVanillaRot](/models/model_part/full#overrideVanillaRot)         | [getVertices](/models/model_part/full#getVertices)                       |
+| [overrideVanillaScale](/models/model_part/full#overrideVanillaScale)     |                                                                               |
 
 | Part Transformations via Matrices                                             |                                                                               |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [partToWorldMatrix](/figura-docs/models/model_part/full#partToWorldMatrix)           | [setMatrix](/figura-docs/models/model_part/full#setMatrix)                           |
-| [getPositionMatrix](/figura-docs/models/model_part/full#getPositionMatrix)           |                                                                               |
-| [getPositionMatrixRaw](/figura-docs/models/model_part/full#getPositionMatrixRaw)     |                                                                               |
-| [getNormalMatrix](/figura-docs/models/model_part/full#getNormalMatrix)               |                                                                               |
-| [getNormalMatrixRaw](/figura-docs/models/model_part/full#getNormalMatrixRaw)         |                                                                               |
+| [partToWorldMatrix](/models/model_part/full#partToWorldMatrix)           | [setMatrix](/models/model_part/full#setMatrix)                           |
+| [getPositionMatrix](/models/model_part/full#getPositionMatrix)           |                                                                               |
+| [getPositionMatrixRaw](/models/model_part/full#getPositionMatrixRaw)     |                                                                               |
+| [getNormalMatrix](/models/model_part/full#getNormalMatrix)               |                                                                               |
+| [getNormalMatrixRaw](/models/model_part/full#getNormalMatrixRaw)         |                                                                               |
 
 | Miscellaneous                                                                 | Fields                                                                        |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [newText](/figura-docs/models/model_part/full#newText)                               | [preRender](/figura-docs/models/model_part/full#preRender)                           |
-| [newBlock](/figura-docs/models/model_part/full#newBlock)                             | [postRender](/figura-docs/models/model_part/full#postRender)                         |
-| [newItem](/figura-docs/models/model_part/full#newItem)                               | [midRender](/figura-docs/models/model_part/full#midRender)                           |
-| [newSprite](/figura-docs/models/model_part/full#newSprite)                           |                                                                               |
-| [newTask](/figura-docs/models/model_part/full#newTask)                               |                                                                               |
-| [newPart](/figura-docs/models/model_part/full#newPart)                               |                                                                               |
-| [removeTask](/figura-docs/models/model_part/full#removeTask)                         |                                                                               |
-| [getTask](/figura-docs/models/model_part/full#getTask)                               |                                                                               |
+| [newText](/models/model_part/full#newText)                               | [preRender](/models/model_part/full#preRender)                           |
+| [newBlock](/models/model_part/full#newBlock)                             | [postRender](/models/model_part/full#postRender)                         |
+| [newItem](/models/model_part/full#newItem)                               | [midRender](/models/model_part/full#midRender)                           |
+| [newSprite](/models/model_part/full#newSprite)                           |                                                                               |
+| [newTask](/models/model_part/full#newTask)                               |                                                                               |
+| [newPart](/models/model_part/full#newPart)                               |                                                                               |
+| [removeTask](/models/model_part/full#removeTask)                         |                                                                               |
+| [getTask](/models/model_part/full#getTask)                               |                                                                               |
 |                                                                               |                                                                               |
-| [addChild](/figura-docs/models/model_part/full#addChild)                             |                                                                               |
-| [moveTo](/figura-docs/models/model_part/full#moveTo)                                 |                                                                               |
-| [copy](/figura-docs/models/model_part/full#copy)                                     |                                                                               |
-| [removeChild](/figura-docs/models/model_part/full#removeChild)                       |                                                                               |
-| [isChildOf](/figura-docs/models/model_part/full#isChildOf)                           |                                                                               |
+| [addChild](/models/model_part/full#addChild)                             |                                                                               |
+| [moveTo](/models/model_part/full#moveTo)                                 |                                                                               |
+| [copy](/models/model_part/full#copy)                                     |                                                                               |
+| [removeChild](/models/model_part/full#removeChild)                       |                                                                               |
+| [isChildOf](/models/model_part/full#isChildOf)                           |                                                                               |

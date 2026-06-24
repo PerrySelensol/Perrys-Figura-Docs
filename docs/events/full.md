@@ -2,7 +2,7 @@
 layout: page
 parent: Events
 title: All Events
-permalink: /figura-docs/events/full
+permalink: /events/full
 nav_order: 2
 ---
 

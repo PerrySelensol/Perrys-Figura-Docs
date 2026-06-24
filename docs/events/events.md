@@ -2,7 +2,7 @@
 layout: page
 parent: Figura Documentation
 title: Events
-permalink: /figura-docs/events
+permalink: /events
 search_exclude: true
 has_toc: false
 ---
@@ -24,13 +24,13 @@ has_toc: false
 
 | Rendering Events                                                | Client Inputs                                                         |
 | ----------------------------------------------------------      | --------------------------------------------------------------------- |
-| [ENTITY_INIT](/figura-docs/events/full#ENTITY_INIT)             | [CHAT_SEND_MESSAGE](/figura-docs/events/full#CHAT_SEND_MESSAGE)       |
-| [TICK](/figura-docs/events/full#TICK)                           | [CHAT_RECEIVE_MESSAGE](/figura-docs/events/full#CHAT_RECEIVE_MESSAGE) |
-| [WORLD_TICK](/figura-docs/events/full#WORLD_TICK)               | [MOUSE_SCROLL](/figura-docs/events/full#MOUSE_SCROLL)                 |
-| [RENDER](/figura-docs/events/full#RENDER)                       | [MOUSE_MOVE](/figura-docs/events/full#MOUSE_MOVE)                     |
-| [POST_RENDER](/figura-docs/events/full#POST_RENDER)             | [MOUSE_PRESS](/figura-docs/events/full#MOUSE_PRESS)                   |
-| [WORLD_RENDER](/figura-docs/events/full#WORLD_RENDER)           | [KEY_PRESS](/figura-docs/events/full#KEY_PRESS)                       |
-| [POST_WORLD_RENDER](/figura-docs/events/full#POST_WORLD_RENDER) | [CHAR_TYPED](/figura-docs/events/full#CHAR_TYPED)                     |
-| [SKULL_RENDER](/figura-docs/events/full#SKULL_RENDER)           | [USE_ITEM](/figura-docs/events/full#USE_ITEM)                         |
-| [ARROW_RENDER](/figura-docs/events/full#ARROW_RENDER)           | [ON_PLAY_SOUND](/figura-docs/events/full#ON_PLAY_SOUND)               |
-| [ITEM_RENDER](/figura-docs/events/full#ITEM_RENDER)             | [RESOURCE_RELOAD](/figura-docs/events/full#RESOURCE_RELOAD)           |
+| [ENTITY_INIT](/events/full#ENTITY_INIT)             | [CHAT_SEND_MESSAGE](/events/full#CHAT_SEND_MESSAGE)       |
+| [TICK](/events/full#TICK)                           | [CHAT_RECEIVE_MESSAGE](/events/full#CHAT_RECEIVE_MESSAGE) |
+| [WORLD_TICK](/events/full#WORLD_TICK)               | [MOUSE_SCROLL](/events/full#MOUSE_SCROLL)                 |
+| [RENDER](/events/full#RENDER)                       | [MOUSE_MOVE](/events/full#MOUSE_MOVE)                     |
+| [POST_RENDER](/events/full#POST_RENDER)             | [MOUSE_PRESS](/events/full#MOUSE_PRESS)                   |
+| [WORLD_RENDER](/events/full#WORLD_RENDER)           | [KEY_PRESS](/events/full#KEY_PRESS)                       |
+| [POST_WORLD_RENDER](/events/full#POST_WORLD_RENDER) | [CHAR_TYPED](/events/full#CHAR_TYPED)                     |
+| [SKULL_RENDER](/events/full#SKULL_RENDER)           | [USE_ITEM](/events/full#USE_ITEM)                         |
+| [ARROW_RENDER](/events/full#ARROW_RENDER)           | [ON_PLAY_SOUND](/events/full#ON_PLAY_SOUND)               |
+| [ITEM_RENDER](/events/full#ITEM_RENDER)             | [RESOURCE_RELOAD](/events/full#RESOURCE_RELOAD)           |

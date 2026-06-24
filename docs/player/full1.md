@@ -2,7 +2,7 @@
 layout: page
 parent: Player and Entities
 title: All Player Getters
-permalink: /figura-docs/player/full1
+permalink: /player/full1
 ---
 
 <center style="font-size: 3em;">Player Functions</center>

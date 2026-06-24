@@ -2,7 +2,7 @@
 layout: page
 parent: Figura Documentation
 title: Basic Functions
-permalink: /figura-docs/basic_func
+permalink: /basic_func
 search_exclude: true
 has_toc: false
 ---
@@ -27,7 +27,7 @@ These are basic and simple functions in Figura. All but `require` are usually fo
 
 | Debugging Tools                                       | Special                                         |
 | ----------------------------------------------------- | ----------------------------------------------- |
-| [print](/figura-docs/basic_func/full#print)           | [require](/figura-docs/basic_func/full#require) |
-| [printJson](/figura-docs/basic_func/full#printJson)   |                                                 |
-| [printTable](/figura-docs/basic_func/full#printTable) |                                                 |
-| [listFiles](/figura-docs/basic_func/full#listFiles)   |                                                 |
+| [print](/basic_func/full#print)           | [require](/basic_func/full#require) |
+| [printJson](/basic_func/full#printJson)   |                                                 |
+| [printTable](/basic_func/full#printTable) |                                                 |
+| [listFiles](/basic_func/full#listFiles)   |                                                 |

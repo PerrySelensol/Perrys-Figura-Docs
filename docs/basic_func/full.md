@@ -2,7 +2,7 @@
 layout: page
 parent: Basic Functions
 title: All Basic Functions
-permalink: /figura-docs/basic_func/full
+permalink: /basic_func/full
 ---
 
 <center style="font-size: 3em;">Basic Functions</center>

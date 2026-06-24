@@ -2,7 +2,7 @@
 layout: page
 parent: Figura Documentation
 title: Models
-permalink: /figura-docs/models
+permalink: /models
 ---
 
 <style> span.hidden {visibility: hidden;} </style>
@@ -54,8 +54,8 @@ L_Arm:setScale(1, 10, 1) -- Resize the group
 
 | Blockbench's Groups, Cubes and Meshes        | Figura's Task Objects                            |
 | -------------------------------------------- | ------------------------------------------------ |
-| [ModelPart](/figura-docs/models/model_part)  | [BlockTask](/figura-docs/models/block_task)      |
-| [Vertex](/figura-docs/models/vertex)         | [ItemTask](/figura-docs/models/item_task)        |
-|                                              | [RenderTask](/figura-docs/models/render_task)    |
-|                                              | [SpriteTask](/figura-docs/models/sprite_task)    |
-|                                              | [TextureTask](/figura-docs/models/texture_task)  |
+| [ModelPart](/models/model_part)  | [BlockTask](/models/block_task)      |
+| [Vertex](/models/vertex)         | [ItemTask](/models/item_task)        |
+|                                              | [RenderTask](/models/render_task)    |
+|                                              | [SpriteTask](/models/sprite_task)    |
+|                                              | [TextureTask](/models/texture_task)  |

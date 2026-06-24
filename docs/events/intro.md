@@ -2,7 +2,7 @@
 layout: page
 parent: Events
 title: Introduction
-permalink: /figura-docs/events/intro
+permalink: /events/intro
 search_exclude: true
 has_toc: false
 nav_order: 1
