@@ -1,7 +1,7 @@
 ---
+nav_order: 1
 layout: page
 title: Home
-nav_order: 1
 has_toc: false
 ---
 
@@ -9,7 +9,15 @@ has_toc: false
 
 ***
 
-## Fundamentals
+## Figura uses Lua? What's that?
+This documentation assumes that you know basics of Lua, the programming language. If you aren't that familiar with Lua, you can check out these links:
+- [Manuel-3's Lua quick start](https://manuel-3.github.io/lua-quickstart/): Lua primer geared towards Figura's Lua.
+- [Programming in Lua (first edition)](https://www.lua.org/pil/contents.html): the Lua's own tutorial book for learning Lua in general (The book is based on Lua 5.0, Figura uses Lua 5.2; expect some differences in version.)
+- [Lua 5.2 Reference Manual](https://www.lua.org/manual/5.2/): for the daring, full manual for the Lua version that Figura uses.
+
+Note that Figura only uses a subset of Lua, namely it lacks I/O library, operating system library, Lua's own debug library, and C API. Still, this is not something you would really use inside a script of your Figura avatar anyways.
+
+## Core
 
 - [Basic Functions]({{ "basic_func" | relative_url }})
 - [Events]({{ "events/intro" | relative_url }}) &nbsp;(&#8202;[List]({{ "events/intro" | relative_url }})&#8202;)
